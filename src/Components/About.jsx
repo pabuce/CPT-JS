@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/extra.jpg";
 
-const imageAltText = "";
+const imageAltText = "El extraterrestre del futuro";
 
 /**
  * Sort description that expands on your title on the Home component.
